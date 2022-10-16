@@ -25,4 +25,4 @@
 
 - Learned how to use background images
 
-## [Live-link]() of the project
+## [Live-link](https://rode-clone-tailwindcss01.netlify.app/) of the project
